@@ -22,5 +22,5 @@ Local Area Network.
 Network Design
 A hirerachial Approach
 
-A hirerachial network design devide a network setup into three major parts
+A hierarchical network design devide a network setup into three major parts
 a Core Network, A distribution Network and Access Network.
