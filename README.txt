@@ -18,3 +18,6 @@ A VLAN
 is a sub internal network which is separated to another for different
 reasons. can be security or easy management. VLAN stands for Virtual
 Local Area Network.
+
+Network Design
+A hirerachial Approach
